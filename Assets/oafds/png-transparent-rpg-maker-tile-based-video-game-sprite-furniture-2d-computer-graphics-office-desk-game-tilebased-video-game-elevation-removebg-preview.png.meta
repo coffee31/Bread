@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 9b8425f749752ff468a86eaefa654888
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 350
+        width: 67
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09930aab891fe9e4ca7d8ded4dc56905
+      internalID: -1427021728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 287
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ad7c999b44653499f919069f9767c0
+      internalID: -871076903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 217
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f7ccd750a3cb64d90fda56575552b5
+      internalID: -6880140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 214
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2944f3301c13b9946b54f4160fbca237
+      internalID: 64958901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 198
+        width: 23
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73549b044c9f3954d8b7ff63634dfe09
+      internalID: 246162368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 242
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2f6371a8f8fb645a903e41df30a760
+      internalID: -1573202534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 187
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d850c64641a8b6a41b792d6e9d50be67
+      internalID: 712413265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 187
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b36a6a1fdb99b4d98745483bc4f10a
+      internalID: -2125359754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 144
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2054eafbdf2a12340ad0188ddf1c10ae
+      internalID: -807816030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 117
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5922c2b4b9c94054f88c79f7ad81c0f8
+      internalID: -468529805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 152
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cbe4e8be279764abdc379748889707
+      internalID: -1386178610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 75
+        width: 183
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb10a041bc246dc4696ce9b42451092a
+      internalID: -1192798741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 117
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0093f7f7807bfd34e9570549af371640
+      internalID: 1863686020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 22
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974409d99e17cb4da2257b0e056d334
+      internalID: 1058671394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 28
+        width: 115
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132557e172c8ecc4dadeafc541dd85b0
+      internalID: 2063476519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_0: -1427021728
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_1: -871076903
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_10: -1386178610
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_11: -1192798741
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_12: 1863686020
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_13: 1058671394
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_14: 2063476519
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_2: -6880140
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_3: 64958901
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_4: 246162368
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_5: -1573202534
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_6: 712413265
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_7: -2125359754
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_8: -807816030
+      png-transparent-rpg-maker-tile-based-video-game-sprite-furniture-2d-computer-graphics-office-desk-game-tilebased-video-game-elevation-removebg-preview_9: -468529805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
