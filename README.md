@@ -13,4 +13,5 @@ Unity ver - 2022.3.8f1
 플랫폼 : PC
 
 Youtube : https://youtu.be/aYQgJVTN2QM
+
 기술서 : https://drive.google.com/file/d/1IShkdVI6rB97RMiDV8agd4-EjYAjRmBX/view?usp=drive_link
