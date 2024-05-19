@@ -35,6 +35,7 @@ public class MobileManager : MonoBehaviour, IPointerDownHandler, IDragHandler, I
 
     public void OnPointerDown(PointerEventData eventData)
     {
+
         OnDrag(eventData);
 
     }
