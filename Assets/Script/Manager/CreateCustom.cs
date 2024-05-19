@@ -131,9 +131,9 @@ public class CreateCustom : MonoBehaviour
 
         //시간 조절 [30 / 60 / 40 / 70]
         FWaitTime = 30.0f;
-        FPlayTime = 60.0f;
-        MWaitTime = 40.0f;
-        MPlayTime = 70.0f;
+        FPlayTime = 30.0f;
+        MWaitTime = 30.0f;
+        MPlayTime = 40.0f;
     }
 
     private void Start()
@@ -242,7 +242,7 @@ public class CreateCustom : MonoBehaviour
         if(MWaitTime <= 0)
         {
             MainWait = false;
-            MWaitTime = 40.0f;
+            MWaitTime = 30.0f;
         }
 
         if (!MainWait && Fend)
@@ -268,7 +268,7 @@ public class CreateCustom : MonoBehaviour
         if(MPlayTime <= 0)
         {
             MainWait = true;
-            MPlayTime = 70.0f;
+            MPlayTime = 40.0f;
             GameManager.Instance.MonthCount++;
         }
 

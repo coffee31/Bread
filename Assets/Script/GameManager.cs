@@ -511,4 +511,16 @@ public class GameManager : MonoBehaviour
         if (image.activeSelf)
             image.SetActive(false);
     }
+
+    public void MoblieUION()
+    {
+        if (charter.CreateON)
+        {
+            charter.Create.SetActive(true);
+        }
+        else if (charter.StandON)
+        {
+            charter.Stand.SetActive(true);
+        }
+    }
 }

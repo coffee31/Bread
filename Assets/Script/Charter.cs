@@ -16,16 +16,12 @@ public class Charter : MonoBehaviour
     float minX, maxX, minY, maxY;
 
      //UI 관련 변수
-    [SerializeField]
-    bool CreateON = false;
-    [SerializeField]
-    bool StandON = false;
+    public bool CreateON = false;
+    public bool StandON = false;
 
     //UI 화면 변수
-    [SerializeField]
-    GameObject Create;
-    [SerializeField]
-    GameObject Stand;
+    public GameObject Create;
+    public GameObject Stand;
     
     private int gold;
     public int Gold
@@ -33,6 +29,11 @@ public class Charter : MonoBehaviour
         get { return gold; }
         set { gold = value; }
     }
+
+
+    private Vector2 mobileInput = Vector2.zero; // 조이스틱 입력 벡터
+
+
 
     void Start()
     {
@@ -59,10 +60,8 @@ public class Charter : MonoBehaviour
         float moveX = Input.GetAxis("Horizontal");
         float moveY = Input.GetAxis("Vertical");
 
-        Vector2 moveDirection = new Vector2(moveX, moveY);
+        Vector2 moveDirection = mobileInput != Vector2.zero ? mobileInput : new Vector2(moveX, moveY);
         rigid.velocity = moveDirection * moveSpeed;
-
-        
 
     }
     void CamSet()
@@ -133,6 +132,15 @@ public class Charter : MonoBehaviour
             }
         }
     }
+
+
+
+
+    public void MobileMove(Vector2 input)
+    {
+        mobileInput = input;
+    }
+
 
 }
 
